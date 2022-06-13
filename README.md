@@ -1,5 +1,5 @@
 # Escape And Evade
- Endless runner shooter type of game
+ Escape from a holding cell to freedom evading your capitors, either steathly or guns blazing.
 
 AnimationStarterPark
 FPS_Weapon_Bundle
